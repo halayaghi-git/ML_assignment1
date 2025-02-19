@@ -167,7 +167,7 @@ pclass,survived,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,ho
 1.0,1.0,"Hoyt, Mr. Frederick Maxfield",male,38.0,1.0,0.0,19943,90.0,C93,S,D,-1.0,"New York, NY /  Stamford CT"
 1.0,0.0,"Hoyt, Mr. William Fisher",male,29.8811345124283,0.0,0.0,PC 17600,30.6958,Unknown,C,14,-1.0,"New York, NY"
 1.0,1.0,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,1.0,0.0,19943,90.0,C93,S,D,-1.0,"New York, NY /  Stamford CT"
-1.0,1.0,"Icard, Miss. Amelie",female,38.0,0.0,0.0,113572,80.0,B28,,6,-1.0,Unknown
+1.0,1.0,"Icard, Miss. Amelie",female,38.0,0.0,0.0,113572,80.0,B28,S,6,-1.0,Unknown
 1.0,0.0,"Isham, Miss. Ann Elizabeth",female,50.0,0.0,0.0,PC 17595,28.7125,C49,C,-1,-1.0,"Paris, France New York, NY"
 1.0,1.0,"Ismay, Mr. Joseph Bruce",male,49.0,0.0,0.0,112058,0.0,B52 B54 B56,S,C,-1.0,Liverpool
 1.0,0.0,"Jones, Mr. Charles Cresson",male,46.0,0.0,0.0,694,26.0,Unknown,S,-1,80.0,"Bennington, VT"
@@ -283,7 +283,7 @@ pclass,survived,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,ho
 1.0,1.0,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,43.0,1.0,0.0,11778,55.4417,C116,C,5,-1.0,"Newark, NJ"
 1.0,1.0,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,1.0,0.0,36947,78.2667,D20,C,4,-1.0,"Haverford, PA"
 1.0,0.0,"Stewart, Mr. Albert A",male,29.8811345124283,0.0,0.0,PC 17605,27.7208,Unknown,C,-1,-1.0,"Gallipolis, Ohio / ? Paris / New York"
-1.0,1.0,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62.0,0.0,0.0,113572,80.0,B28,,6,-1.0,"Cincinatti, OH"
+1.0,1.0,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62.0,0.0,0.0,113572,80.0,B28,S,6,-1.0,"Cincinatti, OH"
 1.0,0.0,"Straus, Mr. Isidor",male,67.0,1.0,0.0,PC 17483,221.7792,C55 C57,S,-1,96.0,"New York, NY"
 1.0,0.0,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,63.0,1.0,0.0,PC 17483,221.7792,C55 C57,S,-1,-1.0,"New York, NY"
 1.0,0.0,"Sutton, Mr. Frederick",male,61.0,0.0,0.0,36963,32.3208,D50,S,-1,46.0,"Haddenfield, NJ"
